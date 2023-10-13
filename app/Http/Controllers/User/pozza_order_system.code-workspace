@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../../pizza order/00_Customer Panel"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "00_Customer Panel"
+	}
+}
